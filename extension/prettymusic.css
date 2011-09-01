@@ -1,0 +1,200 @@
+@charset "UTF-8";
+/* CSS Document */
+body{background-image:none !important}
+#oneGoogleWrapper{ background-color:#2D2D2D !important; color:#FFF !important;}
+#header{background-color:#F1F1F1 !important; position:relative;}
+#headerBar{padding:0px !important}
+a#gb_24.gb1, a#gb_23.gb1, a#gb_25.gb1, a#gb_31.gb1, a#gb_32.gb1, a#gb_1.gb1, nobr a.gb3 u, b.gb4, span#gbe a, #gbe a.gb4, nobr a#gb_97.gb4, nobr a#gb_71.gb4, a#gb_119.gb1, #prettymusic {color:#CCC !important; text-decoration:none !important; font-size:13px !important; font-family:Arial, Helvetica, sans-serif !important;}
+#prettymusic{ padding: 6px 5px 0px 5px !important; position:relative; font-weight:bold; color:#FFF !important; border-top: 2px solid #DD4B39; margin-right:5px !important}
+#plusyou { padding: 6px 0px 0px 0px !important; position:relative; top:-5px; color:#CCC !important; float:left; border-top: none; margin-right:5px !important; text-decoration:none !important; font-size:12px !important;}
+div#plusyou a{color:#CCC !important;text-decoration:none !important; font-size:12px !important; font-family:Arial, Helvetica, sans-serif !important;}
+#prettymusicoff{ padding: 6px 0px 0px 0px !important; position:relative; top:-6px; color:#CCC !important; border-top: none; margin-right:0px !important; display:inline-block;}
+.fade-out-effect{display:none !important}
+b.gb4{font-weight:bold !important; color:#FFF !important}
+#insideBox{background-image:none !important; background-color:transparent !important}
+#coloredBar{background-color:#F1F1F1 !important; border-bottom:1px inset #ccc !important; padding-top:0px !important; border-top:none !important; height:auto !important}
+#nav, .nav-tab{border-right:1px inset #ccc !important}
+#nav{margin-right:0px !important}
+.nav-tab, .main-tab{padding-top:10px !important; border-bottom: 1px inset #CCC !important}
+.tab-text{position:relative; left:-3px !important}
+#insideBox{margin:0px !important}
+#invite_friend_text{color:#333 !important;}
+#syncing_indicator_text{color:#333 !important}
+.focus .selected .nav-item{background: -webkit-gradient(linear, left top, left bottom, from(#E55F50), to(#DD4B39)) !important; border:none !important; border-radius: 3px !important}
+.nav-section-header{color:#DD4B39 !important}
+.nav-item-container.selected { border:none !important}
+.nav-item:hover{border-radius:3px;}
+#playing_controls, #player{ background-image:none !important; background-color:#2D2D2D !important;}
+.browseArtistArtContainer img, .album-container img, .start-page-item-container img{box-shadow:3px 3px 5px #333}
+.browseArtistArtContainer img:hover, .album-container img:hover, .start-page-item-container img:hover{box-shadow:0px 0px 5px #ccc}
+.selectedSong{background: -webkit-gradient(linear, left top, left bottom, from(#4D90FE), to(#4888EE)) !important; border-radius: 3px !important}
+.songRow artistAlbumRow selectedSong hover{background: -webkit-gradient(linear, left top, left bottom, from(#6199ED), to(#4888EE)) !important;}
+.songRow.selectedSong .fade-out-with-menu {
+background: no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -416px -559px !important;}
+.search{background-image:none !important}
+.selectedSong .thumbs-up-button.goog-flat-button-hover,.selectedSong .thumbs-down-button.goog-flat-button-hover{background-color:#55b7c8}
+.songRow.selectedSong .song-drop-down-button.goog-flat-button-hover{background: -webkit-gradient(linear, left top, left bottom, from(#6199ED), to(#4888EE)) !important;}
+.selectedSong.hover td{background: -webkit-gradient(linear, left top, left bottom, from(#4D90FE), to(#4888EE)) !important;}
+.ac-active{background: -webkit-gradient(linear, left top, left bottom, from(#4D90FE), to(#4888EE)) !important;}
+.focus .nav-item-container.selected .playlistDropDownClicked{background: -webkit-gradient(linear, left top, left bottom, from(#E55F50), to(#DD4B39)) !important;}
+.focus .nav-item-container.selected .playlistDropDown:hover{background: -webkit-gradient(linear, left top, left bottom, from(#E55F50), to(#DD4B39)) !important;}
+.focus .nav-item-container.selected .playlistDropDown{background: -webkit-gradient(linear, left top, left bottom, from(#E55F50), to(#DD4B39)) !important;}
+.focus .selected .nav-item{background: -webkit-gradient(linear, left top, left bottom, from(#E55F50), to(#DD4B39)) !important;}
+.playlistDragTarget{background: -webkit-gradient(linear, left top, left bottom, from(#4D90FE), to(#4888EE)) !important;}
+#promo_pack_add_button{background: -webkit-gradient(linear, left top, left bottom, from(#4D90FE), to(#4888EE)) !important;}
+.goog-menuitem-highlight,.goog-menuitem-hover{background: -webkit-gradient(linear, left top, left bottom, from(#6199ED), to(#4888EE)) !important;}
+.important_button{background: -webkit-gradient(linear, left top, left bottom, from(#4D90FE), to(#4888EE)) !important;}
+div.logo{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -153px -396px !important}
+.browseArtistArtContainer{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -110px -559px !important}
+.fade-out-effect{ background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -167px -372px !important} 
+.bubbles-rating-filter-up{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -525px 0 !important} 
+.bubbles-rating-filter-down{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -105px -240px !important} 
+.goog-zippy-collapsed #bubbles-filter-minimize-button{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -230px !important} 
+.goog-zippy-expanded #bubbles-filter-minimize-button{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -201px -304px !important}
+.hover-play-button{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png)  -201px -304px !important} 
+.hover-play-button:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png)-369px -304px !important} 
+.hover-play-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png)  -295px -304px !important } 
+#butter_bar_close_button{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -96px !important} 
+.breadcrumb-part{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -436px -607px !important} 
+.breadcrumb-part:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) 0 -559px !important} 
+.add-music-plus-icon{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -413px -214px !important} 
+.syncing-icon{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -110px -660px !important} 
+#promo_pack_close_button  {background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -201px -276px !important}
+#rew.goog-flat-button{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) 0 0 !important}
+#rew.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -105px -404px !important}
+#rew.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -105px -356px !important}
+#ff.goog-flat-button{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -201px -144px !important}
+#ff.goog-flat-button-disabled{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -125px -48px !important}
+#ff.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) 0 -511px !important}
+#ff.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -357px -70px !important}
+#playPause.goog-flat-button{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -321px -304px !important}
+#playPause.goog-flat-button-disabled{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -48px !important}
+#playPause.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -105px -260px !important}
+#playPause.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -48px -689px !important}
+#playPause.goog-flat-button-checked{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -179px 0 !important}
+#playPause.goog-flat-button-checked.goog-flat-button-disabled{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -125px -96px !important}
+#playPause.goog-flat-button-checked.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -453px -396px !important}
+#playPause.goog-flat-button-checked.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -377px -511px !important}
+.toggleControl{display:inline;padding:5px;margin:5px !important}
+#shuffle_mode_button{width:48px;height:48px;cursor:pointer;outline:none;background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -345px -236px;float:right !important}
+#shuffle_mode_button:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -249px -144px !important}
+#shuffle_mode_button.checked{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -48px -511px !important}
+#shuffle_mode_button.checked:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -451px -48px !important}
+#shuffle_mode_button.on_clicked{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -104px !important}
+#shuffle_mode_button.off_clicked{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -226px -511px !important}
+#repeat_mode_button.NO_REPEAT{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -425px -511px !important}
+#repeat_mode_button.LIST_REPEAT{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -443px 0 !important}
+#repeat_mode_button.SINGLE_REPEAT{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -318px !important}
+#repeat_mode_button.NO_REPEAT:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -497px -607px !important}
+#repeat_mode_button.LIST_REPEAT:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -57px -414px !important}
+#repeat_mode_button.SINGLE_REPEAT:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -369px -347px !important}
+#repeat_mode_button.NO_REPEAT_CLICKED{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -249px -192px !important}
+#repeat_mode_button.LIST_REPEAT_CLICKED{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -337px -682px !important}
+#repeat_mode_button.SINGLE_REPEAT_CLICKED{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -467px -463px !important}
+#volume_button.mute{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) 0 -665px !important}
+#volume_button.low{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -436px -559px !important}
+#volume_button.mid_low{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -153px -304px !important}
+#volume_button.mid_high{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -48px -641px !important}
+#volume_button.high{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -401px -463px !important}
+#volume_button.mute:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -131px 0 !important}
+#volume_button.low:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -105px -308px !important}
+#volume_button.mid_low:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -213px -96px !important}
+#volume_button.mid_high:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -501px -396px !important}
+#volume_button.high:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -395px 0 !important}
+#pressed_volume_button.mute{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -462px !important}
+#pressed_volume_button.low{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -48px -579px !important}
+#pressed_volume_button.mid_low{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -414px !important}
+#pressed_volume_button.mid_high{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -105px -144px !important}
+#pressed_volume_button.high{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -153px -144px !important}
+.goog-slider-thumb{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -201px -463px !important}
+.goog-slider-track .goog-slider-thumb:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -437px -48px !important}
+.goog-slider-volume .goog-slider-thumb{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -96px -559px !important}
+.goog-slider-volume .goog-slider-thumb:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -153px -352px !important}
+#thumbsUpPlayer{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -309px -48px !important}
+.active #thumbsDownPlayer{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -297px -236px !important}
+.active #thumbsUpPlayer.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) 0 -597px !important}
+.active #thumbsDownPlayer.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -96px -511px !important}
+.active #thumbsUpPlayer.goog-flat-button-checked{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -105px -463px !important}
+.active #thumbsDownPlayer.goog-flat-button-checked{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -473px -511px !important}
+.active #thumbsUpPlayer.goog-flat-button-checked.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -57px -366px !important}
+.active #thumbsDownPlayer.goog-flat-button-checked.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -329px -511px !important}
+.active #thumbsUpPlayer.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -261px -48px !important}
+.active #thumbsDownPlayer.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -413px -166px !important}
+.active #thumbsUpPlayer.goog-flat-button-checked.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -29px -230px !important}
+.active #thumbsDownPlayer.goog-flat-button-checked.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -213px -48px !important}
+#playerSongInfo .fade-out-effect{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -515px -463px !important}
+#playerSongInfo .goog-flat-button-hover .fade-out-effect{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -144px -511px !important}
+.modeIndicatorOverlayShuffle{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -417px -304px !important}
+.modeIndicatorOverlayRepeat{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -110px -682px !important}
+.modeIndicatorOverlayRepeatOnce{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -297px -144px !important}
+.modeIndicatorOverlayMute{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -421px -682px !important}
+.playlistDragTarget .fade-out-effect{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -278px !important}
+.newPlaylistBtn{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -413px -214px !important}
+.newPlaylistBtn:hover,.newPlaylistBtn.playlistDragTarget{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) 0 -713px !important}
+.newPlaylistBtn:active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -381px -463px !important}
+.nav-item:hover .playlistDropDown{display:block;background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -249px -240px !important}
+.playlistDropDownClicked{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -249px -240px !important}
+.nav-item:hover .playlistDropDown:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -193px -48px !important}
+.focus .nav-item-container.selected .playlistDropDown{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -275px -20px !important}
+.focus .nav-item-container.selected .playlistDropDown:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -512px -660px !important}
+.focus .nav-item-container.selected .playlistDropDownClicked{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) 0 -645px !important}
+.nav-item-container.selected .fade-out-effect,.nav-item:hover .fade-out-effect{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -48px 0 !important}
+.focus .nav-item-container.selected .fade-out-effect{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -278px !important}
+#invite_friend .icon{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) 0 -583px !important}
+.search-icon{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -449px -463px !important}
+.search-button{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -491px 0 !important}
+.search .goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -385px -682px !important}
+.search .goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -517px -256px !important}
+.search .goog-flat-button-disabled{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -345px -284px !important}
+.pc-app-icon{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -337px -730px !important}
+.android-device-icon{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -413px -234px !important}
+.modal-dialog-title-close{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -77px -462px !important}
+.modal-dialog-buttons .cancel-button-x{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -484px -559px !important}
+.sort-icon{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -173px -48px !important}
+.descending .sort-icon{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) 0 -48px !important}
+.song-drag-1{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -289px -682px !important}
+.song-drag-2{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -340px -599px !important}
+.song-drag-3{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -340px -559px !important}
+.song-drag-4{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -164px -511px !important}
+.song-drag-5{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -215px -463px !important}
+.albumMenuDropDown{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -416px -559px !important}
+.albumMenuDropDown:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -275px 0 !important}
+.albumMenuDropDownPressed{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -188px !important}
+.artistsMenuDropDown{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -188px !important}
+.artistsMenuDropDown:hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -275px 0 !important}
+.artistsMenuDropDownPressed{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -188px !important}
+.song-drop-down-button.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -275px 0 !important}
+.song-drop-down-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -188px !important}
+.songRow.selectedSong .song-drop-down-button.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -144px -531px !important}
+.songRow.selectedSong .song-drop-down-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -49px -172px !important}
+.songRow .fade-out-effect{filter:none;background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -167px -372px !important}
+.songRow.hover .fade-out-effect{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -48px 0 !important}
+.songRow.selectedSong .fade-out-effect,.songRow.selectedSong.hover .fade-out-effect{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -278px !important}
+.fade-out-with-menu{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -274px -511px !important}
+.songRow.hover .fade-out-with-menu{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -152px !important}
+.songRow.selectedSong .fade-out-with-menu{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -153px -192px !important}
+.rating-up{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -301px -463px !important}
+.rating-down{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -357px -118px !important}
+.hover .fixed-width-rating-col{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -315px 0 !important}
+.hover .rating-up{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -413px -144px !important}
+.hover .rating-down{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -357px -48px !important}
+.selectedSong .fixed-width-rating-col{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -148px -660px !important}
+.selectedSong .rating-up{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -449px -234px !important}
+.selectedSong .rating-down{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -9px -208px !important}
+.thumbs-up-button.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -269px -720px !important}
+.thumbs-down-button.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -477px -607px !important}
+.rating-up .thumbs-up-button.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -281px -463px !important}
+.rating-down .thumbs-down-button.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -128px -660px !important}
+.selectedSong .thumbs-up-button.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -396px -559px !important}
+.selectedSong .thumbs-down-button.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -393px -236px !important}
+.selectedSong .rating-up .thumbs-up-button.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -48px -559px !important}
+.selectedSong .rating-down .thumbs-down-button.goog-flat-button-hover{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -449px -256px !important}
+.thumbs-up-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -29px -172px !important}
+.thumbs-down-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -416px -579px !important}
+.rating-up .thumbs-up-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -57px -462px !important}
+.rating-down .thumbs-down-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -111px 0}
+.selectedSong .thumbs-up-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -269px -682px !important}
+.selectedSong .thumbs-down-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -369px -327px !important}
+.songRow .fade-out-effect{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -167px -372px !important}
+.selectedSong .rating-up .thumbs-up-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -105px -48px !important}
+.selectedSong .rating-down .thumbs-down-button.goog-flat-button-active{background:no-repeat url(http://img855.imageshack.us/img855/8562/spritesq.png) -525px -20px !important}
